@@ -1,0 +1,10 @@
+{
+  "hosting": {
+    "public": "pages/gasstation",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
